@@ -1,0 +1,226 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Syne", ui-sans-serif, system-ui, sans-serif;
+  --color-ink: #0b1020;
+  --color-aurora: #5346f5;
+  --color-lagoon: #0f766e;
+  --color-coral: #e11d48;
+  --color-sand: #f4f6fb;
+  --color-mist: #e7ecf5;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 7.5rem;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar,
+*::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+body {
+  margin: 0;
+  min-height: 100%;
+  font-family: var(--font-sans);
+  background: var(--color-sand);
+  color: var(--color-ink);
+  text-rendering: optimizeLegibility;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+* {
+  scrollbar-width: none;
+}
+
+a,
+button,
+select,
+label {
+  cursor: pointer;
+}
+
+button:disabled,
+select:disabled {
+  cursor: not-allowed;
+}
+
+::selection {
+  background: #ddd9ff;
+  color: #0b1020;
+}
+
+:focus-visible {
+  outline: 2px solid #5346f5;
+  outline-offset: 3px;
+}
+
+.orbit-stage {
+  position: relative;
+  height: 20rem;
+  perspective: 1200px;
+  touch-action: pan-y;
+}
+
+.orbit-glow {
+  position: absolute;
+  left: 50%;
+  top: 46%;
+  height: 14rem;
+  width: 14rem;
+  transform: translate(-50%, -50%);
+  border-radius: 999px;
+  background: radial-gradient(circle, rgba(83, 70, 245, 0.55), rgba(34, 211, 238, 0.12) 55%, transparent 72%);
+  filter: blur(8px);
+}
+
+.orbit-floor {
+  position: absolute;
+  left: 50%;
+  bottom: 1.25rem;
+  height: 2.5rem;
+  width: 16rem;
+  transform: translateX(-50%);
+  border-radius: 999px;
+  background: radial-gradient(ellipse, rgba(125, 211, 252, 0.45), transparent 70%);
+  filter: blur(6px);
+}
+
+.orbit-ring,
+.orbit-card {
+  transform-style: preserve-3d;
+}
+
+.orbit-ring {
+  position: absolute;
+  left: 50%;
+  top: 48%;
+  width: 7.5rem;
+  height: 9.6rem;
+  margin-left: -3.75rem;
+  margin-top: -4.8rem;
+}
+
+.orbit-card {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  border-radius: 1.25rem;
+  background: #fff;
+  box-shadow: 0 22px 40px rgba(0, 0, 0, 0.32);
+  outline: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.orbit-card img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.orbit-card span {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1.75rem 0.7rem 0.7rem;
+  overflow: hidden;
+  background: linear-gradient(to top, rgba(11, 16, 32, 0.88), transparent);
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 700;
+  line-height: 1.2;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+@media (min-width: 768px) {
+  .orbit-stage {
+    height: 28rem;
+  }
+
+  .orbit-ring {
+    width: 11rem;
+    height: 14rem;
+    margin-left: -5.5rem;
+    margin-top: -7rem;
+  }
+
+  .orbit-floor {
+    width: 22rem;
+  }
+}
+
+.hero-grid {
+  background-image:
+    linear-gradient(to right, rgba(255, 255, 255, 0.06) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.06) 1px, transparent 1px);
+  background-size: 52px 52px;
+  mask-image: radial-gradient(ellipse at center, #000 25%, transparent 78%);
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes drift {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(26px, -20px, 0) scale(1.08);
+  }
+}
+
+@keyframes progress {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+.animate-rise {
+  animation: rise 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.animate-drift {
+  animation: drift 16s ease-in-out infinite;
+}
+
+.animate-progress {
+  transform-origin: left center;
+  animation: progress 6s linear both;
+}
+
+.animate-progress.is-paused {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .animate-rise,
+  .animate-drift,
+  .animate-progress {
+    animation: none;
+  }
+}

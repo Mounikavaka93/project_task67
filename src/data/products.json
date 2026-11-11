@@ -1,0 +1,619 @@
+[
+  {
+    "id": 1,
+    "sku": "VT-PX1",
+    "name": "Pulse X1",
+    "brand": "Veltryn",
+    "category": "Mobiles",
+    "price": 899,
+    "originalPrice": 1099,
+    "rating": 4.8,
+    "reviews": 2140,
+    "badge": "New",
+    "stock": 18,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["phone", "5g", "camera", "flagship", "mobile"],
+    "highlights": ["120Hz OLED display", "200MP main camera", "5000mAh battery"],
+    "description": "The Pulse X1 is Veltryn's flagship phone for people who want a bright screen, a serious camera, and a battery that lasts through a long day. It stays quick on 5G and comfortable in one hand, with storage for photos, playlists, and offline maps.",
+    "specs": {
+      "Display": "6.7 inch 120Hz OLED",
+      "Processor": "Veltryn N3",
+      "Storage": "256GB",
+      "Camera": "200MP wide + 50MP ultrawide",
+      "Battery": "5000mAh",
+      "Resistance": "IP68"
+    }
+  },
+  {
+    "id": 2,
+    "sku": "NL-NS14",
+    "name": "Nova Slim 14",
+    "brand": "Northline",
+    "category": "Mobiles",
+    "price": 649,
+    "originalPrice": 749,
+    "rating": 4.6,
+    "reviews": 980,
+    "stock": 24,
+    "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["phone", "5g", "lightweight", "mobile"],
+    "highlights": ["Slim aluminum frame", "Two-day battery", "128GB storage"],
+    "description": "Nova Slim 14 is the everyday phone that disappears in a pocket and still has room for a sharp camera and a smooth display. It is the pick when you want flagship feel without the flagship price.",
+    "specs": {
+      "Display": "6.4 inch 90Hz OLED",
+      "Processor": "Northline S2",
+      "Storage": "128GB",
+      "Camera": "64MP wide + 12MP ultrawide",
+      "Battery": "4800mAh",
+      "Resistance": "IP67"
+    }
+  },
+  {
+    "id": 3,
+    "sku": "LM-FZ",
+    "name": "Lumen Fold Z",
+    "brand": "Lumen",
+    "category": "Mobiles",
+    "price": 1299,
+    "originalPrice": 1499,
+    "rating": 4.7,
+    "reviews": 640,
+    "badge": "Limited",
+    "stock": 3,
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["phone", "fold", "5g", "mobile"],
+    "highlights": ["Foldable inner display", "Cover screen for quick checks", "512GB storage"],
+    "description": "Lumen Fold Z opens into a small tablet and closes into a phone you can use one-handed. It is built for reading, split-screen notes, and photos that deserve a larger preview.",
+    "specs": {
+      "Display": "7.6 inch foldable OLED",
+      "Processor": "Lumen F1",
+      "Storage": "512GB",
+      "Camera": "50MP wide + 12MP ultrawide",
+      "Battery": "4400mAh",
+      "Resistance": "IPX4"
+    }
+  },
+  {
+    "id": 4,
+    "sku": "VT-AB16",
+    "name": "AeroBook Pro 16",
+    "brand": "Veltryn",
+    "category": "Laptops",
+    "price": 1899,
+    "originalPrice": 2199,
+    "rating": 4.9,
+    "reviews": 870,
+    "badge": "Best Seller",
+    "stock": 11,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["laptop", "creator", "portable"],
+    "highlights": ["16 inch color-true display", "18-hour battery", "Quiet keyboard"],
+    "description": "AeroBook Pro 16 gives creative work a wide, accurate display without turning your bag into a brick. It handles photo edits, long documents, and a full day away from the charger.",
+    "specs": {
+      "Display": "16 inch 120Hz LCD",
+      "Processor": "Veltryn A9 10-core",
+      "Memory": "16GB",
+      "Storage": "512GB SSD",
+      "Graphics": "Integrated 16-core",
+      "Weight": "1.6 kg"
+    }
+  },
+  {
+    "id": 5,
+    "sku": "NL-FU14",
+    "name": "Flux Ultrabook 14",
+    "brand": "Northline",
+    "category": "Laptops",
+    "price": 1199,
+    "originalPrice": 1399,
+    "rating": 4.7,
+    "reviews": 1120,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["laptop", "ultrabook", "travel"],
+    "highlights": ["1.2 kg travel weight", "All-day battery", "Backlit keyboard"],
+    "description": "Flux Ultrabook 14 is the laptop you forget is in the bag until you open it. It is light, quiet, and quick enough for class, client calls, and a dozen browser tabs.",
+    "specs": {
+      "Display": "14 inch IPS",
+      "Processor": "Northline U5",
+      "Memory": "16GB",
+      "Storage": "512GB SSD",
+      "Battery": "Up to 16 hours",
+      "Weight": "1.2 kg"
+    }
+  },
+  {
+    "id": 6,
+    "sku": "VN-VS15",
+    "name": "Vertex Studio 15",
+    "brand": "Vanta",
+    "category": "Laptops",
+    "price": 2499,
+    "originalPrice": 2799,
+    "rating": 4.8,
+    "reviews": 430,
+    "stock": 7,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["laptop", "studio", "creator", "gpu"],
+    "highlights": ["Dedicated graphics", "32GB memory", "Color-managed display"],
+    "description": "Vertex Studio 15 is built for timelines, 3D previews, and large photo sets. The dedicated graphics and roomy memory keep exports moving while the display stays accurate.",
+    "specs": {
+      "Display": "15.6 inch 165Hz",
+      "Processor": "Vanta X7",
+      "Memory": "32GB",
+      "Storage": "1TB SSD",
+      "Graphics": "Vanta Arc 8GB",
+      "Weight": "2.0 kg"
+    }
+  },
+  {
+    "id": 7,
+    "sku": "HL-EH",
+    "name": "EchoHalo ANC",
+    "brand": "Halo",
+    "category": "Headphones",
+    "price": 249,
+    "originalPrice": 329,
+    "rating": 4.8,
+    "reviews": 3200,
+    "badge": "Best Seller",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["headphones", "anc", "wireless", "noise cancelling", "audio"],
+    "highlights": ["Adaptive noise cancelling", "36-hour battery", "Plush cushions"],
+    "description": "EchoHalo ANC turns down trains, offices, and airplane hum without flattening the music. The battery covers a long weekend, and the cushions stay comfortable past the second hour.",
+    "specs": {
+      "Type": "Over-ear wireless",
+      "Drivers": "40mm",
+      "Noise control": "Adaptive ANC",
+      "Battery": "36 hours",
+      "Connectivity": "Bluetooth 5.3",
+      "Weight": "248 g"
+    }
+  },
+  {
+    "id": 8,
+    "sku": "KN-BS",
+    "name": "Bassline Studio",
+    "brand": "Kin",
+    "category": "Headphones",
+    "price": 179,
+    "originalPrice": 229,
+    "rating": 4.6,
+    "reviews": 860,
+    "stock": 22,
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["headphones", "studio", "wired", "audio"],
+    "highlights": ["Neutral studio tuning", "Detachable cable", "Foldable frame"],
+    "description": "Bassline Studio is tuned for people who edit, practice, or just want to hear a mix without extra color. The closed frame keeps the room out while you work.",
+    "specs": {
+      "Type": "Over-ear wired",
+      "Drivers": "45mm",
+      "Frequency": "15Hz – 24kHz",
+      "Cable": "Detachable 1.8m",
+      "Impedance": "32 ohm",
+      "Weight": "265 g"
+    }
+  },
+  {
+    "id": 9,
+    "sku": "HL-DB",
+    "name": "Drift Buds",
+    "brand": "Halo",
+    "category": "Headphones",
+    "price": 89,
+    "originalPrice": 129,
+    "rating": 4.5,
+    "reviews": 5400,
+    "badge": "Deal",
+    "stock": 80,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["earbuds", "wireless", "buds", "audio", "headphones"],
+    "highlights": ["Pocket charging case", "IPX4 splash resistance", "Touch controls"],
+    "description": "Drift Buds are the small pair you actually take with you. They pair fast, survive a sweaty commute, and the case holds extra charges for the rest of the week.",
+    "specs": {
+      "Type": "In-ear wireless",
+      "Battery": "7 hours, 28 with case",
+      "Resistance": "IPX4",
+      "Controls": "Touch",
+      "Connectivity": "Bluetooth 5.3",
+      "Weight": "4.6 g each"
+    }
+  },
+  {
+    "id": 10,
+    "sku": "VN-VO65",
+    "name": "Vista OLED 65",
+    "brand": "Vanta",
+    "category": "Smart TVs",
+    "price": 1499,
+    "originalPrice": 1899,
+    "rating": 4.8,
+    "reviews": 760,
+    "stock": 9,
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["tv", "oled", "4k", "smart tv"],
+    "highlights": ["65 inch OLED panel", "120Hz gaming mode", "Four HDMI ports"],
+    "description": "Vista OLED 65 is the living-room screen for films, late games, and the match on Sunday. Blacks stay deep, motion stays clean, and the smart apps are a click from the remote.",
+    "specs": {
+      "Size": "65 inch",
+      "Panel": "OLED",
+      "Resolution": "4K",
+      "Refresh rate": "120Hz",
+      "HDR": "Dolby Vision and HDR10",
+      "Smart platform": "Veltryn TV"
+    }
+  },
+  {
+    "id": 11,
+    "sku": "NL-HQ55",
+    "name": "Horizon QLED 55",
+    "brand": "Northline",
+    "category": "Smart TVs",
+    "price": 799,
+    "originalPrice": 999,
+    "rating": 4.6,
+    "reviews": 1340,
+    "stock": 14,
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571415060716-baff5f717c37?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["tv", "qled", "4k", "smart tv"],
+    "highlights": ["Bright QLED panel", "Voice remote", "Slim wall-friendly frame"],
+    "description": "Horizon QLED 55 is the bright everyday television for rooms with windows and mixed viewing. Sports stay vivid, streaming apps launch quickly, and the frame sits close to the wall.",
+    "specs": {
+      "Size": "55 inch",
+      "Panel": "QLED",
+      "Resolution": "4K",
+      "Refresh rate": "60Hz",
+      "HDR": "HDR10+",
+      "Smart platform": "Northline Home"
+    }
+  },
+  {
+    "id": 12,
+    "sku": "VN-CF75",
+    "name": "CinemaFrame 75",
+    "brand": "Vanta",
+    "category": "Smart TVs",
+    "price": 2199,
+    "originalPrice": 2699,
+    "rating": 4.7,
+    "reviews": 390,
+    "badge": "Limited",
+    "stock": 4,
+    "image": "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571415060716-baff5f717c37?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["tv", "4k", "cinema", "smart tv", "large"],
+    "highlights": ["75 inch cinema size", "Local dimming", "Theater sound tuning"],
+    "description": "CinemaFrame 75 fills the wall without asking you to sit across the street. Local dimming keeps highlights crisp, and the speakers are tuned for dialogue you can actually follow.",
+    "specs": {
+      "Size": "75 inch",
+      "Panel": "Mini-LED",
+      "Resolution": "4K",
+      "Refresh rate": "120Hz",
+      "HDR": "Dolby Vision",
+      "Audio": "60W, 2.1"
+    }
+  },
+  {
+    "id": 13,
+    "sku": "FN-R7",
+    "name": "Lenscraft R7",
+    "brand": "Fieldnote",
+    "category": "Cameras",
+    "price": 1599,
+    "originalPrice": 1799,
+    "rating": 4.8,
+    "reviews": 510,
+    "badge": "New",
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["camera", "mirrorless", "photo", "4k"],
+    "highlights": ["33MP full-frame sensor", "In-body stabilization", "Weather-sealed body"],
+    "description": "Lenscraft R7 is a full-frame mirrorless body for trips, portraits, and weekend commissions. Stabilization keeps handheld shots steady, and the sealed body shrugs off a light rain.",
+    "specs": {
+      "Sensor": "33MP full frame",
+      "Lens mount": "Fieldnote RF",
+      "Video": "4K 60p",
+      "Stabilization": "5-axis in body",
+      "Screen": "3 inch vari-angle",
+      "Storage": "Dual card slots"
+    }
+  },
+  {
+    "id": 14,
+    "sku": "FN-M1",
+    "name": "Mirrorless One M",
+    "brand": "Fieldnote",
+    "category": "Cameras",
+    "price": 1099,
+    "originalPrice": 1299,
+    "rating": 4.7,
+    "reviews": 880,
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["camera", "mirrorless", "travel", "photo"],
+    "highlights": ["Compact travel body", "Fast subject tracking", "Kit-ready lens mount"],
+    "description": "Mirrorless One M is the camera you bring when a phone is not quite enough. It focuses quickly, stays small in a day bag, and gives you files you can crop with confidence.",
+    "specs": {
+      "Sensor": "26MP APS-C",
+      "Lens mount": "Fieldnote RF",
+      "Video": "4K 30p",
+      "Stabilization": "Lens + electronic",
+      "Screen": "3 inch tilting",
+      "Storage": "SD UHS-II"
+    }
+  },
+  {
+    "id": 15,
+    "sku": "KN-PC2",
+    "name": "Pocket Cinema C2",
+    "brand": "Kin",
+    "category": "Cameras",
+    "price": 749,
+    "originalPrice": 899,
+    "rating": 4.5,
+    "reviews": 640,
+    "stock": 16,
+    "image": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["camera", "compact", "vlogging", "photo"],
+    "highlights": ["Flip screen for vlogs", "Built-in directional mic", "Pocketable body"],
+    "description": "Pocket Cinema C2 is for street photos and short films that start on a whim. The flip screen faces you, the mic hears the person in front, and the body fits a coat pocket.",
+    "specs": {
+      "Sensor": "20MP 1-inch",
+      "Lens": "24-70mm equivalent",
+      "Video": "4K 30p",
+      "Screen": "3 inch flip-forward",
+      "Mic": "Directional stereo",
+      "Storage": "SD / microSD"
+    }
+  },
+  {
+    "id": 16,
+    "sku": "VT-TW",
+    "name": "Tempo Watch S",
+    "brand": "Veltryn",
+    "category": "Smartwatches",
+    "price": 329,
+    "originalPrice": 399,
+    "rating": 4.6,
+    "reviews": 2100,
+    "badge": "Best Seller",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["watch", "smartwatch", "fitness", "health"],
+    "highlights": ["Always-on display", "Heart and sleep tracking", "5-day battery"],
+    "description": "Tempo Watch S keeps messages, workouts, and the time on your wrist without a nightly charge. The always-on face is readable outdoors, and sleep tracking stays quiet overnight.",
+    "specs": {
+      "Display": "1.4 inch AMOLED",
+      "Health": "Heart rate, SpO2, sleep",
+      "Battery": "Up to 5 days",
+      "Water resistance": "5 ATM",
+      "Connectivity": "Bluetooth, GPS",
+      "Strap": "Silicone, quick release"
+    }
+  },
+  {
+    "id": 17,
+    "sku": "HL-OF",
+    "name": "Orbit Fit Band",
+    "brand": "Halo",
+    "category": "Smartwatches",
+    "price": 79,
+    "originalPrice": 99,
+    "rating": 4.4,
+    "reviews": 3900,
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["watch", "fitness", "band", "smartwatch"],
+    "highlights": ["Light fitness band", "7-day battery", "Swim-ready"],
+    "description": "Orbit Fit Band is the lightweight tracker for steps, sleep, and pool laps. It is slim enough to forget, and the battery lasts a full week of ordinary days.",
+    "specs": {
+      "Display": "1.1 inch AMOLED",
+      "Health": "Heart rate, steps, sleep",
+      "Battery": "Up to 7 days",
+      "Water resistance": "5 ATM",
+      "Connectivity": "Bluetooth",
+      "Strap": "Sport fluoroelastomer"
+    }
+  },
+  {
+    "id": 18,
+    "sku": "VT-PC",
+    "name": "Pulse Chrono",
+    "brand": "Veltryn",
+    "category": "Smartwatches",
+    "price": 459,
+    "originalPrice": 549,
+    "rating": 4.7,
+    "reviews": 720,
+    "stock": 18,
+    "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["watch", "smartwatch", "gps", "premium"],
+    "highlights": ["Sapphire crystal", "Dual-frequency GPS", "Titanium case"],
+    "description": "Pulse Chrono is the watch for long runs and sharp weekends. Sapphire resists keys, GPS holds a route under trees, and the titanium case stays lighter than it looks.",
+    "specs": {
+      "Display": "1.5 inch AMOLED",
+      "Case": "Titanium, sapphire crystal",
+      "Battery": "Up to 4 days",
+      "Water resistance": "10 ATM",
+      "Connectivity": "Bluetooth, dual-frequency GPS",
+      "Strap": "Leather or sport"
+    }
+  },
+  {
+    "id": 19,
+    "sku": "VT-CC65",
+    "name": "ChargeCube 65W",
+    "brand": "Veltryn",
+    "category": "Accessories",
+    "price": 49,
+    "originalPrice": 69,
+    "rating": 4.7,
+    "reviews": 6100,
+    "stock": 100,
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["charger", "usb-c", "gan", "accessory", "power"],
+    "highlights": ["65W GaN charger", "Two USB-C ports", "Folds flat for travel"],
+    "description": "ChargeCube 65W replaces the pile of bricks in your bag. It powers a laptop and a phone together, folds flat, and stays cool enough for a hotel nightstand.",
+    "specs": {
+      "Type": "GaN wall charger",
+      "Power": "65W shared",
+      "Ports": "2x USB-C",
+      "Compatibility": "Phones, tablets, USB-C laptops",
+      "Cable": "Not included",
+      "Warranty": "1 year"
+    }
+  },
+  {
+    "id": 20,
+    "sku": "KN-KW",
+    "name": "Keywave Mechanical",
+    "brand": "Kin",
+    "category": "Accessories",
+    "price": 129,
+    "originalPrice": 169,
+    "rating": 4.8,
+    "reviews": 1540,
+    "stock": 27,
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["keyboard", "mechanical", "accessory", "typing"],
+    "highlights": ["Hot-swap mechanical switches", "USB-C connection", "Compact layout"],
+    "description": "Keywave Mechanical is a compact typing board with a sound you can live with in a shared room. Switches are hot-swappable, and the USB-C cable unplugs when you pack up.",
+    "specs": {
+      "Type": "Mechanical keyboard",
+      "Layout": "75 percent",
+      "Switches": "Hot-swap tactile",
+      "Connection": "USB-C wired",
+      "Backlight": "White LED",
+      "Warranty": "1 year"
+    }
+  },
+  {
+    "id": 21,
+    "sku": "HL-SD",
+    "name": "SoundDock Mini",
+    "brand": "Halo",
+    "category": "Accessories",
+    "price": 99,
+    "originalPrice": 139,
+    "rating": 4.5,
+    "reviews": 980,
+    "stock": 33,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["speaker", "bluetooth", "accessory", "audio"],
+    "highlights": ["Room-filling Bluetooth speaker", "12-hour playback", "Splash-resistant shell"],
+    "description": "SoundDock Mini fills a kitchen or a balcony without shouting. Pair it once, carry it by the strap, and keep playing while it sits near the sink.",
+    "specs": {
+      "Type": "Bluetooth speaker",
+      "Battery": "12 hours",
+      "Resistance": "IPX5",
+      "Connectivity": "Bluetooth 5.3",
+      "Output": "20W",
+      "Warranty": "1 year"
+    }
+  }
+]
